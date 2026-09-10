@@ -1,0 +1,24 @@
+# Visual Studio
+.vs/
+*.user
+
+# Build folders
+x64/
+x86/
+Debug/
+Release/
+
+# Build files
+*.exe
+*.pdb
+*.obj
+*.ilk
+*.idb
+*.tlog
+*.log
+*.recipe
+*.lastbuildstate
+*.vcxproj
+*.filiters
+*.vcxproj.filiters
+*.vcxproj.user
